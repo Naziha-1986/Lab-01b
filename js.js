@@ -14,7 +14,7 @@ console.log("how old are you?" + userAge);
 
 
 let favMovie = prompt('what is your favorite movie?');
-alert('it is a greatt one')
+alert('it is a great one')
 console.log("what is your favorite movie?" + favMovie);
 
 
